@@ -1,8 +1,7 @@
 ---
-title: "`deno install`, script installer"
----
 
-<!-- TODO: this needs to be updated for Deno 2 -->
+title: "`deno install`, script installer"
+---<!-- TODO: this needs to be updated for Deno 2 -->
 
 Deno provides `deno install` to easily install and distribute executable code.
 
