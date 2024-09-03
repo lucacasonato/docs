@@ -22,7 +22,7 @@ projects. If you have a Node.js project, it is not necessary to create a
 project. If both a `deno.json` and `package.json` file are present in the same
 directory, Deno will import the modules in the `package.json` file and use the
 `deno.json` file for Deno-specific configurations. Read more about
-[Node compatibility in Deno](/runtime/manual/node/compatibility).
+[Node compatibility in Deno](/runtime/reference/node/#node-compatibility).
 
 ## module imports and scopes
 
